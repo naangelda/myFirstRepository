@@ -1,0 +1,13 @@
+table{
+    border:1px;
+    width:200px;
+    background-color: aqua;
+}
+
+.myClass{
+    background-color: rgb(237, 238, 164);
+}
+
+#myId{
+    background-color: rgb(211, 151, 181);
+}
